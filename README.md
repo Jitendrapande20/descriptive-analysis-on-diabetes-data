@@ -2,6 +2,7 @@
 Descriptive Analysis of Diabetes Data
 
 Overview
+diabetesdashbord.PNG
 
 This project performs a Descriptive Analysis on diabetes data, focusing on key health metrics such as age, glucose, BMI, insulin outcomes, pregnancy, and blood pressure. The analysis provides insights into the relationships between these variables and diabetes prevalence, aiming to support better decision-making in healthcare.
 
