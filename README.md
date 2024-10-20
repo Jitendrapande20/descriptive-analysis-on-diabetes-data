@@ -86,7 +86,11 @@ Tools and Technologies Used
 
 Power BI: For data visualization and interactive dashboards.
 
-Python (Pandas, Matplotlib, Seaborn): For data cleaning, analysis, and statistical plotting.
+Python  
+
+Pandas  For data cleaning, analysis, and statistical plotting.
+
+ Excel 
 
 Jupyter Notebook: For analysis documentation and presentation.
 
