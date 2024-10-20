@@ -107,5 +107,5 @@ Contributions are welcome! Please submit a pull request or open an issue for dis
 
 License
 
-This project is licensed under the jitendra rajendra pande
+This project is licensed under the JITENDRA RAJENDRA PANDE 
 
